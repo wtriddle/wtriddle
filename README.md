@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wtriddle
-- 🖥️ I’m interested in Software and Hardware Development with C/C++, HDL, Python and Javascript!
-- ✍️ I’m currently working on a dissertation for IFG as well as Senior Design Project for FPGA image recognition!
-- 🏫 I'm a computer engineer graduating in May 2022 with pursuit of higher education!
+- 🖥️ I’m interested in Software Development & Web Services
+- ✍️ I’m currently working on Senior Design Project for FPGA image recognition!
+- 🏫 I'm a computer engineer graduating in May 2022!
 
 <!---
 wtriddle/wtriddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
