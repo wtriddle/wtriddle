@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtriddle
-- 🖥️ I’m interested in Software Development & Web Services
-- ✍️ I’m currently working on Senior Design Project for FPGA image recognition!
+- 🖥️ I’m interested in Software Engineering and Development for the Web
+- ✍️ I’m currently studying engineering and programming concepts.
 - 🏫 I'm a computer engineer graduating in May 2022!
 
 <!---
